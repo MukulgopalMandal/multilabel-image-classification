@@ -99,3 +99,7 @@ PREDICTED LABELS --> [[1 1 1 0]]
 
 ## Author
 Developed by **Mukulgopal Mandal**
+
+## Acknowledgement
+
+This project was developed as part of a multilabel image classification assignment and follows standard deep learning practices.
